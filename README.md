@@ -37,7 +37,7 @@ Structure: Aksel Ilveskero
 
 Fluids: Jon Antoniac
 
-Propulsion: Taneli Juutinen
+Propulsion: Taneli Juutinen & Juho Pekkanen
 
 Ops/Safety: Pyry Björk
 
